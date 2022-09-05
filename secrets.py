@@ -1,2 +1,6 @@
+# Insert your Spotify Token here. You can receive your token from:
+# link: 
 spotify_token = "BQDTCVR9P85nQuFxw3njcz0rNIfbKY3qdvC1jNF_D_IT2r-2vf_4mRfCJlrx_A72DCyLtkrdTHqwSbGPz9Od2a2swKeD-t3xgBWNKzuNba1zcxQbpw_jmvKl0gwy4DVECJkYigXcLzOBGP1n7xzSWTxoVuiCf2_9fvjrzNgIQdysugwkytcoK6sXgU0prA8NYA6eiKS2bX8egVSGE_DO1j4CD7WX5ABYIuea27STNKvBU1Zw54e6PXaJ-qWWcGjJ"
+
+# Insert your Spotify Username here.
 spotify_user_id = "31k2gbhcheqxqb7dxdxa2tsmrnme"
